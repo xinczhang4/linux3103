@@ -1,7 +1,7 @@
 /*
-   Command line to complie: g++ -c 56200220_56198902.cpp 
+   Command line to complie: g++ -c ass2.cpp 
    							g++ -c generator.cpp
-   							g++ -o test 56200220_56198902.o generator.o -lpthread
+   							g++ -o test ass2.o generator.o -lpthread
    
    Command line to run: ./test
    Input: interval_A, interval_B, interval_C, M 
